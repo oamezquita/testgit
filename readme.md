@@ -1,1 +1,1 @@
-test git from console
+test git from console,with new branch
